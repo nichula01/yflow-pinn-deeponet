@@ -9,3 +9,13 @@ ml/*/models/
 cfd/results/
 geom/*.stl
 geom/*.vtk
+
+# previews & extra mesh formats
+geom/*.png
+geom/*.vtp
+geom/*.vtu
+
+# OpenFOAM build artifacts
+processor*/
+postProcessing/
+constant/polyMesh/
