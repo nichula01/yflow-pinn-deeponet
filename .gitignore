@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv
+.ipynb_checkpoints/
+data/
+ml/*/runs/
+ml/*/models/
+cfd/results/
+geom/*.stl
+geom/*.vtk
